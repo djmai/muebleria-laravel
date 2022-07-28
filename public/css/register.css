@@ -1,0 +1,29 @@
+.register{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+legend{
+    font-style: italic;
+}
+.table{
+    margin: auto;
+}
+.conteinerLinks{
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    margin: auto;
+}
+.inputClass{
+    border: solid 1px #79125C;
+    border-radius: 5px;
+}
+.inputClass:hover{
+    border: solid 2px #79125C;
+}
+#btnEnviar{
+    width: 50%;
+}

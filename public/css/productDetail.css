@@ -1,0 +1,28 @@
+.linkProducts{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+.productShop{
+    text-align: center;
+}
+#btnShop{
+    width: 90%;
+}
+.conteinerProduct{
+    display: flex;
+    text-align: center;
+    padding-bottom: 5%;
+}
+.details{
+    padding-left: 5%;
+    width: 44%;
+    margin: auto;
+}
+.photo{
+    width: 55%;
+    height: 300px;
+}
+.table{
+    height: 100%;
+}
